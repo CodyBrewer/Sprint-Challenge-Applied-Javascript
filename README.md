@@ -31,15 +31,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
-
+The DOM is an API that allows javascript to manipulate html and css.
 2. What is an event?
-
+An event is something a browser does or a user does in a browser.
 3. What is an event listener?
-
+An event listener is code that checks for when an event occurs and then runs code based off of what you want to happen when that event is triggered
 4. Why would we convert a NodeList into an Array?
-
+So that we can use array methods on the nodelist. 
 5. What is a component?
-
+A component is HTML, CSS , and Javascript that you put together that aloows you to reuse it and keep a certain standard.
 ### Git Set up
 
 * [x] Fork the project into your GitHub user account
@@ -55,7 +55,7 @@ Your finished project must include all of the following requirements:
 
 * [x] Following the instructions in the `Tabs.js` file, complete the `TabLink`, and `TabCard` class components. It will look and feel very similar to the last project we worked on, but with a twist. Now, instead of one `Item` to display, we will need to display a collection of `Cards`. Think about ways to iterate over an array and manipulate each item.  **Note: You will need to un-comment the code after the lines of instructions.  The code is commented out so you can work error-free**
 
-* [ ] Once you get your `Tab` component working properly add a couple more articles yourself and check out how it works.
+* [x] Once you get your `Tab` component working properly add a couple more articles yourself and check out how it works.
 
 ## Stretch Problems
 
